@@ -23,7 +23,7 @@
         "Schema"
     ],
     "devDependencies": {
-        "browser-sync": "^2.26.7",
+        "browser-sync": "^3.0.4",
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^7.0",
         "laravel-mix": "^5.0.1",
